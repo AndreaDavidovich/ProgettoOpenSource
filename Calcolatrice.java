@@ -5,7 +5,7 @@ public class Calcolatrice {
         return a + b;
     }
 
-	public int sottrazione(int a, int b){
+	public int sottrazioneee(int a, int b){
 	return a-b;}
 
 
